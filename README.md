@@ -10,6 +10,9 @@ pip install opencv-python numpy matplotlib scikit-image
 3. Use Extract Secret Image to retrieve the hidden image from an encrypted one.
 4. Optionally, click Calculate Metrics to compare quality differences (SSIM, PSNR).
 
+Output Images:
+![Output](https://github.com/sn31al/Major_Project/issues/1#issue-2986325772)
+
 📚 Dependencies
 - [OpenCV](https://opencv.org/)
 - [NumPy](https://numpy.org/)
