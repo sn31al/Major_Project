@@ -11,7 +11,7 @@ pip install opencv-python numpy matplotlib scikit-image
 4. Optionally, click Calculate Metrics to compare quality differences (SSIM, PSNR).
 
 Output Images:
-![Output](https://github.com/sn31al/Major_Project/issues/1#issue-2986325772)
+![Screenshot 2025-03-22 190823](https://github.com/user-attachments/assets/e5523990-9dac-4532-9f2a-0376b11191f3)
 
 📚 Dependencies
 - [OpenCV](https://opencv.org/)
